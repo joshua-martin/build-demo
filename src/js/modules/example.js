@@ -1,0 +1,1 @@
+document.querySelector('body').classList.add('mb-20');
